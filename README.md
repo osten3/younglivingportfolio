@@ -33,5 +33,3 @@
 	<p>Feedback: Tell me if this website was easy for you to use. My email is masonosten@gmail.com
 	</p>
 </div>
-		</body>
-	</html> 
